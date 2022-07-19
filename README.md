@@ -14,12 +14,17 @@ Aqui, apresentamos os trabalhos desenvolvidos pela equipe 4 da casa Bitsized. De
 - [Membros da equipe](#Membros-da-equipe)
 
 ## Cenário
-A seguir, expomos o desafio que nos foi proposto pelos organizadores do evento.
+Na quarta-feira,13 de julho de 2022, os estudantes da Fase 3 do Hiring Coders 3 foram incumbidos de utilizarem os conhecimentos construídos nas fases anterios do programa para elaboração de um projeto a ser entregue em uma semana, 20 de julho de 2022. A seguir, expomos o desafio que nos foi proposto pelos organizadores do evento.
 
 >Maria tem uma loja e quer implementar um modelo de recompensa. A cada R$1,00 gasto deve gerar 1 ponto de recompensa. Todo consumidor precisa saber quantos pontos tem em sua carteira virtual, logo um contador deve estar visível para validação do saldo.</br>
 Maria não está preocupada com o uso dos pontos após a geração, pois ela já possui um sistema no qual o usuário final pode utilizar os pontos gerados, mas esse sistema demanda uma API para consultar o saldo e outra para debitar um valor.
 
 ## Identificação de Pontos Fortes da Equipe
+No dia seguinte a liberação do desafio, 14 de julho de 2022, a equipe 4 da casa Bitsized se reuniu para discusão dos pontos fortes de seus membros e divisão de subequipes. A Divisão se deu dessa forma:
+
+- **Front-end:**
+
+- **Back-end:** 
 
 ## Estudo de ferramentas a serem utilizadas
 
