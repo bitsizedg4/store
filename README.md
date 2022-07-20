@@ -35,9 +35,9 @@ Maria não está preocupada com o uso dos pontos após a geração, pois ela já
 ## Identificação de Pontos Fortes da Equipe
 No dia seguinte a liberação do desafio, 14 de julho de 2022, a equipe 4 da casa Bitsized se reuniu para discusão dos pontos fortes de seus membros e divisão de subequipes. A Divisão se deu dessa forma:
 
-- **Front-end:**
+- **Front-end:**(((Escrever aqui membros do front)))
 
-- **Back-end:** 
+- **Back-end:** (((Escrever aqui membros do back)))
 
 ## Estudo de ferramentas a serem utilizadas
 
