@@ -28,11 +28,35 @@ No dia seguinte a liberação do desafio, 14 de julho de 2022, a equipe 4 da cas
 
 ## Estudo de ferramentas a serem utilizadas
 
+Após a organização das times de Front-end e back-end, a equipe 4 fez um estudo minucioso do cenário/problema apresentado para levantamento das tecnologias a serem utilizadas. A seguir, listamos as tecnologias utilizadas no desenvolvimento deste trabalho:
+
+- (((Escrever cada tecnologia. Na utilização de API's não esquecer de colocar referência da documentação.)))
+-
+-
+-
+-
+-
+ 
+
 ## Criação e distribuição de tarefas
+Tendo em mente os times (back-end e front-end) e as tecnologias a serem utilizadas, o próximo, naturalmente, foi a distribuição de tarefas. A seguir, exibimos as tarefas de cada time:
+
+- **Back-end**:
+> (((Escrever aqui as tarefas do back. Escrever as tarefas em forma de uma lista numerada por ordem de execução  ou, caso a equipe prefira, utilizar um fluxograma.)))
+
+-**Front-end**  
+> (((Escrever aqui as tarefas do front. Escrever as tarefas em forma de uma lista numerada por ordem de execução  ou, caso a equipe prefira, utilizar um fluxograma.)))
 
 ## Dificuldades no desenvolvimento
+Dificuldades podem surgir no desenvolvimento de qualquer projeto, esse não foi diferente. A equipe 4 da casa Bitsized avalia que transpor obstáculos é, sobretudo, uma forma de aprimorar os conhecimentos construídos e descobrir novas soluções. Tendo em vista a importância dos obstáculos no processo de construção do saber, optamos por evidenciar algumas das dificuldades enfrentadas pela equipe e quais soluções foram encontradas, uma vez que este material pode vir a servir de objeto de estudos para  futuros desenvolvedores.
+
+- (Listar aqui problemas, soluções e erros encontradas pela equipe)
+-
+-
+-
 
 ## Apresentação da loja
+(((Descrever aqui o funcionamento da loja. Utilizar prints e pedaços de código sempre que achar necessário)))
 
 ## Considerações finais
 
