@@ -1,5 +1,18 @@
 # Hiring coders 3 - Desafio fase 3 
 
+- Repositório blocos customizados de pontos:
+  
+<br />
+
+<p align='center'>
+  <a href="https://github.com/bitsizedg4/bloco-pontos-g4" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
+  </a>
+
+<br />
+<br />
+<br />
+
 Aqui, apresentamos os trabalhos desenvolvidos pela equipe 4 da casa Bitsized. Descrevemos também critérios organizacionais da equipe para serem avaliados no primeiro item dos Critérios de Avaliação da Fase 3, "Organização de Tarefas". 
 
 A seguir, apresentamos um fluxograma contendo as atividades desenvolvidas pela equipe, tais atividades podem ser vistas com detalhes logo mais abaixo.
@@ -35,43 +48,51 @@ Maria não está preocupada com o uso dos pontos após a geração, pois ela já
 ## Identificação de Pontos Fortes da Equipe
 No dia seguinte a liberação do desafio, 14 de julho de 2022, a equipe 4 da casa Bitsized se reuniu para discusão dos pontos fortes de seus membros e divisão de subequipes. A Divisão se deu dessa forma:
 
-- **Front-end:**(((Escrever aqui membros do front)))
+- **Front-end:**
+Jean e Filipe
 
-- **Back-end:** (((Escrever aqui membros do back)))
+- **Back-end:**
+Danilo, Ericky e Christiany
 
 ## Estudo de ferramentas a serem utilizadas
 
-Após a organização das times de Front-end e back-end, a equipe 4 fez um estudo minucioso do cenário/problema apresentado para levantamento das tecnologias a serem utilizadas. A seguir, listamos as tecnologias utilizadas no desenvolvimento deste trabalho:
+Após a organização dos times de Front-end e back-end, a equipe 4 fez um estudo minucioso do cenário/problema apresentado para levantamento das tecnologias a serem utilizadas. A seguir, listamos as tecnologias utilizadas no desenvolvimento deste trabalho:
 
-- (((Escrever cada tecnologia. Na utilização de API's não esquecer de colocar referência da documentação.)))
--
--
--
--
--
+- [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [API de Pedidos](https://developers.vtex.com/vtex-rest-api/reference/getorder)
+- [API do Masterdata](https://developers.vtex.com/vtex-rest-api/reference/master-data-api-v2-overview)
  
 
 ## Criação e distribuição de tarefas
 Tendo em mente os times (back-end e front-end) e as tecnologias a serem utilizadas, o próximo passo, naturalmente, foi a distribuição de tarefas. A seguir, exibimos as tarefas de cada time:
 
 - **Back-end**:
-> (((Escrever aqui as tarefas do back. Escrever as tarefas em forma de uma lista numerada por ordem de execução  ou, caso a equipe prefira, utilizar um fluxograma.)))
+> O backend desta aplicação consiste em uma API construída utilizando-se da plataforma VTEX.
+
+A API possui as seguintes rotas:
+
+_v/get-points Recebe nos headers da requisição o token de sessão do usuário que faz compra, e retorna a quantidade de pontos acumulados.
+
+_v/debit-points Recebe nos headers da requisição o token de sessão do usuário que faz que deseja fazer o débito dos pontos. Recebe no corpo da requisição a quantidade de pontos que deseja debitar, e havendo saldo suficiente, faz o débito e retorna o saldo remanescente.
+
+Há também um serviço que ouve os eventos de alteração de status das compras, e sempre que o novo status é "pagamento aprovado" ou "cancelado", a pontuação referente à compra é creditada ou removida do saldo do usuário.
 
 -**Front-end**  
-> (((Escrever aqui as tarefas do front. Escrever as tarefas em forma de uma lista numerada por ordem de execução  ou, caso a equipe prefira, utilizar um fluxograma.)))
+> O frontend desta aplicação consiste uma uma loja virtual, construída utilizando-se da plataforma VTEX.
+
+Além das funcionalidades típicas de uma loja VTEX, foi implementado um sistema de pontos de fidelidade, em que o usuário ganhar 1 ponto a cada real gasto.
+
+O usuário consegue visualizar os pontos ganhos da área "Minha Conta".
 
 ## Dificuldades no desenvolvimento
 Dificuldades podem surgir no desenvolvimento de qualquer projeto, esse não foi diferente. A equipe 4 da casa Bitsized avalia que transpor obstáculos é, sobretudo, uma forma de aprimorar os conhecimentos construídos e descobrir novas soluções. Tendo em vista a importância dos obstáculos no processo de construção do saber, optamos por evidenciar algumas das dificuldades enfrentadas pela equipe e quais soluções foram encontradas, uma vez que este material pode vir a servir de objeto de estudos para  futuros desenvolvedores.
 
-- (Listar aqui problemas, soluções e erros encontradas pela equipe)
--
--
--
 
 ## Apresentação da loja
 ![image](https://user-images.githubusercontent.com/109427932/179981228-10a45bb5-2947-46e4-a023-18289be23449.png)
-![image](https://user-images.githubusercontent.com/109427932/179983240-31bd49c5-d229-4a93-9397-7bcd9e82019e.png)
-![image](https://user-images.githubusercontent.com/109427932/179981585-25047962-0413-4b16-a91b-603daa80e81f.png)
+![image](https://user-images.githubusercontent.com/23384348/180076667-776c27bf-35d9-4e40-ac5b-8133eab33dd1.png)
 ![image](https://user-images.githubusercontent.com/109427932/179981697-04498c73-cc18-4759-be8e-ce78124b323a.png)
 ![image](https://user-images.githubusercontent.com/109427932/179981801-a21f3463-aec7-46dc-b6ed-858bab41e5c4.png)
 
@@ -87,10 +108,10 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 - Christiany Belini Goulart Delfin
 
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/tianygoulart" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/christiany-belini-goulart/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
@@ -99,34 +120,34 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 - Danilo Antunes
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/antunesdanilo" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a  href="#" target="_blank">
+  <a  href="https://www.linkedin.com/in/danilo-lima-antunes/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
   
-- Ericky Carlos Santana Braga 
+- Erick Carlos Lopes Santana Braga 
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/erickystn" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/erickystn" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
 
   
-- Felipe Carneiro de Almeida
+- Filipe Carneiro de Almeida
   
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://github.com/filipecalm" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/filipecalm/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
