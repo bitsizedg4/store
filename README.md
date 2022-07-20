@@ -2,6 +2,19 @@
 
 Aqui, apresentamos os trabalhos desenvolvidos pela equipe 4 da casa Bitsized. Descrevemos também critérios organizacionais da equipe para serem avaliados no primeiro item dos Critérios de Avaliação da Fase 3, "Organização de Tarefas". 
 
+A seguir, apresentamos um fluxograma contendo as atividades desenvolvidas pela equipe, tais atividades podem ser vistas com detalhes logo mais abaixo.
+
+```mermaid
+graph 
+A(Apresentação do desafio) --> B(Identificação dos pontos dos fortes dos membros da equipe);
+B --> D(Estudo de ferrametas a serem utilizadas);
+D --> E(Criação e distribuição de tarefas);
+E --> F(Desenvolvimento);
+F --> G{Testes};
+G --erro encontrado--> F;
+G --Testes concluidos com sucesso--> H((Entrega do Projeto))
+```
+
 ## Índice
 - [Cenário](#Cenário)
 
