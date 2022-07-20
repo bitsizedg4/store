@@ -39,7 +39,7 @@ Após a organização das times de Front-end e back-end, a equipe 4 fez um estud
  
 
 ## Criação e distribuição de tarefas
-Tendo em mente os times (back-end e front-end) e as tecnologias a serem utilizadas, o próximo, naturalmente, foi a distribuição de tarefas. A seguir, exibimos as tarefas de cada time:
+Tendo em mente os times (back-end e front-end) e as tecnologias a serem utilizadas, o próximo passo, naturalmente, foi a distribuição de tarefas. A seguir, exibimos as tarefas de cada time:
 
 - **Back-end**:
 > (((Escrever aqui as tarefas do back. Escrever as tarefas em forma de uma lista numerada por ordem de execução  ou, caso a equipe prefira, utilizar um fluxograma.)))
