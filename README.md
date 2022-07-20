@@ -6,7 +6,7 @@ A seguir, apresentamos um fluxograma contendo as atividades desenvolvidas pela e
 
 ```mermaid
 graph 
-A(Apresentação do desafio) --> B(Identificação dos pontos dos fortes membros da equipe);
+A(Apresentação do desafio) --> B(Identificação dos pontos fortes dos membros da equipe);
 B --> D(Estudo de ferrametas a serem utilizadas);
 D --> E(Criação e distribuição de tarefas);
 E --> F(Desenvolvimento);
