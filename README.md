@@ -1,6 +1,14 @@
 # Hiring coders 3 - Desafio fase 3 
 
-- Repositório blocos customizados de pontos:
+## Link para a loja instalada em workspace de produção:
+
+<br />
+
+[BITSIZED - GRUPO 4](https://groupfour--bitsized.myvtex.com)
+
+<br />
+
+## Repositório blocos customizados de pontos:
   
 <br />
 
@@ -9,7 +17,6 @@
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>
 
-<br />
 <br />
 <br />
 
@@ -82,9 +89,9 @@ Há também um serviço que ouve os eventos de alteração de status das compras
 -**Front-end**  
 > O frontend desta aplicação consiste uma uma loja virtual, construída utilizando-se da plataforma VTEX.
 
-Além das funcionalidades típicas de uma loja VTEX, foi implementado um sistema de pontos de fidelidade, em que o usuário ganhar 1 ponto a cada real gasto.
+Além das funcionalidades típicas de uma loja VTEX, foi implementado um sistema de pontos de fidelidade, em que o usuário ganha 1 ponto a cada real gasto.
 
-O usuário consegue visualizar os pontos ganhos da área "Minha Conta".
+O usuário consegue visualizar os pontos ganhos na área "Minha Conta".
 
 ## Dificuldades no desenvolvimento
 Dificuldades podem surgir no desenvolvimento de qualquer projeto, esse não foi diferente. A equipe 4 da casa Bitsized avalia que transpor obstáculos é, sobretudo, uma forma de aprimorar os conhecimentos construídos e descobrir novas soluções. Tendo em vista a importância dos obstáculos no processo de construção do saber, optamos por evidenciar algumas das dificuldades enfrentadas pela equipe e quais soluções foram encontradas, uma vez que este material pode vir a servir de objeto de estudos para  futuros desenvolvedores.
@@ -129,7 +136,7 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 </p>
 
   
-- Erick Carlos Lopes Santana Braga 
+- Ericky Carlos Lopes Santana Braga 
   
 <p align='center'>
   <a href="https://github.com/erickystn" target="_blank">
