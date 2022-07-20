@@ -69,7 +69,12 @@ Dificuldades podem surgir no desenvolvimento de qualquer projeto, esse não foi 
 -
 
 ## Apresentação da loja
-(((Descrever aqui o funcionamento da loja. Utilizar prints e pedaços de código sempre que achar necessário)))
+![image](https://user-images.githubusercontent.com/109427932/179981228-10a45bb5-2947-46e4-a023-18289be23449.png)
+![image](https://user-images.githubusercontent.com/109427932/179983240-31bd49c5-d229-4a93-9397-7bcd9e82019e.png)
+![image](https://user-images.githubusercontent.com/109427932/179981585-25047962-0413-4b16-a91b-603daa80e81f.png)
+![image](https://user-images.githubusercontent.com/109427932/179981697-04498c73-cc18-4759-be8e-ce78124b323a.png)
+![image](https://user-images.githubusercontent.com/109427932/179981801-a21f3463-aec7-46dc-b6ed-858bab41e5c4.png)
+
 
 ## Considerações finais
 
@@ -80,6 +85,7 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 <h2>Membros:</h2>
 
 - Christiany Belini Goulart Delfin
+
 <p align='center'>
   <a href="#" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
@@ -102,7 +108,7 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 </p>
 
   
-- Eryck Carlos Santana Braga 
+- Ericky Carlos Santana Braga 
   
 <p align='center'>
   <a href="#" target="_blank">
@@ -137,20 +143,8 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
   </a>&nbsp;&nbsp;
 </p>
 
-  
-- Luciano Santos
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
-
-  
-- Patrick Monteiro Fischer
+   
+- Pedro Quintino
   
 <p align='center'>
   <a href="#" target="_blank">
@@ -162,26 +156,7 @@ A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para v
 </p>
 
   
-- Renata Cristiane
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
+
 
   
-- Robson Elias
-  
-<p align='center'>
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
-  </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
-  </a>&nbsp;&nbsp;
-</p>
 
